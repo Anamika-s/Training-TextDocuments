@@ -1,0 +1,12 @@
+Day 1:
+Task 1: .NET Framework Overview Report
+Write a one-page report detailing the evolution of the .NET Framework to .NET 5, emphasizing the key differences and improvements made over time. Include a section on the Common Language Runtime (CLR), explaining its functionality and impact on .NET applications.
+
+Task 2: Class Library Research and Code Example
+Research the .NET Class Library and compile a list of five commonly used classes along with their namespaces. For one of these classes, write a short C# code snippet that demonstrates a common use case, including inline comments to explain the code.
+
+Task 3: Visual Studio Project Setup Diary
+Install Visual Studio and create a new project using a template relevant to your learning goals. Document each step with screenshots in a "setup diary". If you encounter any setup issues, note down the problem and how you resolved it.
+
+Task 4: C# Programming and Debugging Practice
+Write a C# program that prints "Hello, World!" to the console, then modify it to prompt the user for their name and greet them personally. Debug a provided C# code snippet that contains several deliberate errors. Document each error found, the debugging process, and the final corrected code.

@@ -1,0 +1,7 @@
+Assignment 1: Pseudocode and Flowchart for Sorting Algorithm - Write pseudocode and create a flowchart for a bubble sort algorithm. Provide a brief explanation of how the algorithm works and a simple array of integers to demonstrate a dry run of your algorithm.
+
+
+Find sum of first 10 natural numbers
+Write Recsursive function for Binary Search
+Print nth Prime number
+Print sum of all positive numbers within a range
