@@ -1,0 +1,36 @@
+// #include <stdio.h>  printf scanf
+// in java, we use packages
+// in C# , we use namespace
+using System;
+namespace ConsoleApp1
+{
+    internal class Program
+    {
+        static void Main(string[] args)
+        {
+            // ctrl + KC is to comment statements
+            // ctrl + KU is to uncomment statements
+            //Console.Write("hello1\n");
+            //Console.Write("hello2\n");
+
+            //Console.Write("hello3");
+            int rn = 10;
+            string name = "Ajay Sood";
+            Console.WriteLine(name);
+            Console.WriteLine(rn);
+            Console.WriteLine("RollNo is " + rn);
+            Console.WriteLine("Name is " + name);
+
+            // using positional parameters
+            Console.WriteLine("RollNo is {0}\nName is {1}", rn, name);
+            // printf("rn is %d , name is %s", rn, name);
+
+            // use string interpolation
+            Console.WriteLine($"RollNo is {rn} and Name is {name}");
+
+
+            // Console is a class that belongs to System namespace
+            // WriteLine() is a method that belongs to Console Class
+        }
+    }
+}
