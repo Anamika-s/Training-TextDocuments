@@ -1,0 +1,13 @@
+ Assignemnt 1
+1. Display numbers from 2 to 100 with a gap of 2
+2. Display table of 5 
+like 5 * 1 =5
+       5 * 2 = 10
+3. Take a character and check its vowel, consonant, integer or special character
+4. Check whether a number is prime or not
+5. Diplay sum of 10 numbers
+6. Display sum of max 10 positive integers
+7. Take a name and split it into Array
+8. Take a name and count number of vowels in it
+9. Add two classes with Main Method, Run program fron 2nd class
+10. WAF for displaying numbers from 1 to 10. Use Debug feature to see flow of program

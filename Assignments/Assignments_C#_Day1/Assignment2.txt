@@ -1,0 +1,58 @@
+ You have to create a small project based nthe following scenarios:
+
+ Accept a sentence and perform the following opearations on that:
+
+ 1) Count no. of characters in the sentence
+ 2) Count no. of words in a sentence
+ 3) Reverse a sentence
+ 4) Check whether the sentence is palindrome or not.
+ 5) Count number of vowels, consonants , integers and special characters in the sentence.
+ 
+ NOTE : You will declare functions and in every function you wil pass string variable 
+
+for eg:
+
+	 int count_no_char(string temp)
+	{
+	....
+	....
+	return no_of_chars;
+	}
+ 
+ Now take two strings and perform the following operations:
+
+ 1) Compare them
+ 2) Copy one string to other
+ 3) Combine them and give third string
+
+ NOTE : You will declare functions and in every function you wil pass 2 string variables 
+
+for eg:
+
+	 bool compare(string temp, string temp2)
+	{
+	....
+	....
+	return true/false;
+	}
+ Take two numbers and perform following functions on them,
+
+ 1) Addition,subtraction,multiplication,division (Pass two numbers and this function should return result of sum, difference, product and multiplication)
+ 2) Print all tables from in between these two numbers
+ 3) Print all prime numbers between these two numbers
+
+NOTE : You will declare functions and in every function you wil pass 2 integer variables 
+
+for eg:
+
+	 void tableint n1, int n2)
+	{
+	....
+	....
+	return;
+	}
+
+
+ 
+
+
