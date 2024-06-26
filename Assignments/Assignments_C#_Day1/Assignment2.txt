@@ -1,6 +1,6 @@
- You have to create a small project based nthe following scenarios:
+ You have to create a small project based the following scenarios:
 
- Accept a sentence and perform the following opearations on that:
+ Accept a sentence and perform the following operations on that:
 
  1) Count no. of characters in the sentence
  2) Count no. of words in a sentence
@@ -8,7 +8,7 @@
  4) Check whether the sentence is palindrome or not.
  5) Count number of vowels, consonants , integers and special characters in the sentence.
  
- NOTE : You will declare functions and in every function you wil pass string variable 
+ NOTE : You will declare functions and in every function you will pass string variable 
 
 for eg:
 

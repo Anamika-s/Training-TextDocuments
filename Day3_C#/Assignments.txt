@@ -1,0 +1,80 @@
+Day 1:
+Task 1: .NET Framework Overview Report
+Write a one-page report detailing the evolution of the .NET Framework to .NET 5, emphasizing the key differences and improvements made over time. Include a section on the Common Language Runtime (CLR), explaining its functionality and impact on .NET applications.
+
+Task 2: Class Library Research and Code Example
+Research the .NET Class Library and compile a list of five commonly used classes along with their namespaces. For one of these classes, write a short C# code snippet that demonstrates a common use case, including inline comments to explain the code.
+
+Task 3: Visual Studio Project Setup Diary
+Install Visual Studio and create a new project using a template relevant to your learning goals. Document each step with screenshots in a "setup diary". If you encounter any setup issues, note down the problem and how you resolved it.
+
+Task 4: C# Programming and Debugging Practice
+Write a C# program that prints "Hello, World!" to the console, then modify it to prompt the user for their name and greet them personally. Debug a provided C# code snippet that contains several deliberate errors. Document each error found, the debugging process, and the final corrected code.
+
+Day 2:
+Task 1: Mastering Type Conversion
+Create a C# console application that prompts the user for an integer and a double, then demonstrates both implicit and explicit conversion. Display the results of conversion and any loss of data if it occurs.
+
+Task 2: Variable Scope and Lifetime Illustration
+Design a C# program with a method that attempts to access a local variable outside its scope, a constant, and a static variable. Document the results in comments within the code explaining why each access either succeeds or fails.
+
+Task 3: Implementing Control Structures
+Write a C# application that uses nested if-else statements to classify a number as positive, negative, or zero, and then iterates from that number to zero using a for loop, printing each number to the console.
+
+Task 4: Numerical Algorithms Implementation
+1. Code the Euclidean algorithm in C# to find the GCD of two user-input numbers and display the result.
+2. Implement an exponentiation function to calculate and print the result of a user-input base and exponent.
+3. Generate the Fibonacci sequence up to the nth number, where n is provided by the user, using matrix exponentiation.
+
+Day 3:
+Task 1: Array Manipulation Functions
+a) Create a function named InitializeArray that initializes an array with a given size and fills it with random integers.
+b) Develop functions named InsertElement, DeleteElement, UpdateElement, and ReverseArray that perform the corresponding operations on an array. Provide a brief comment on each function describing its behavior.
+
+"Task 2: Array Sorting and Searching
+a) Implement a function called BruteForceSort that sorts an array using the brute force approach. Use this function to sort an array created with InitializeArray.
+ b) Write a function named PerformLinearSearch that searches for a specific element in an array and returns the index of the element if found or -1 if not found.
+
+Task 3: Two-Sum Problem
+a) Given an array of integers, write a program that finds if there are two numbers that add up to a specific target. You may assume that each input would have exactly one solution, and you may not use the same element twice. Optimize the solution for time complexity.
+
+Task 4: Understanding Functions through Arrays
+a) Write a recursive function named SumArray that calculates and returns the sum of elements in an array, demonstarte with example.
+
+Task 5: Advanced Array Operations
+a)  Implement a C# method SliceArray that takes an array, a starting index, and an end index, then returns a new array containing the elements from the start to the end index.
+b) Create a recursive function in C# to find the nth element of a Fibonacci sequence and store the first n elements in an array.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
